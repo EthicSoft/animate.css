@@ -12,9 +12,11 @@ jQuery
   </head>
   ```
 
-2. call $(...).animateCss(EFFECT_NAME) to the element you want to animate.
- You may also add the word `infinite` after EFFECT_NAME for an infinite loop.
- Use optional "in" or "out" parameters to apply the effect while showing or hiding.
+2. call `$(...).animateCss(EFFECT_NAME)` to the element you want to animate.
+
+   You may also add the word `infinite` after EFFECT_NAME for an infinite loop.
+ 
+   Use optional "in" or "out" parameters to apply the effect while showing or hiding.
 
 3. These are the availables effect names:
 
@@ -99,17 +101,17 @@ Full example:
 ```html
 <h1 id="title">Example</h1>
 ```
-$("#title").animateCss("bounce");//Bounce one
+`$("#title").animateCss("bounce");//Bounce one`
 
 Loop:
-$("#title").animateCss("bounce infinite");//Bounce loop
+`$("#title").animateCss("bounce infinite");//Bounce loop`
 
 Show:
-$("#title").animateCss("bounceIn","in");//Bounce show
+`$("#title").animateCss("bounceIn","in");//Bounce show`
 
 
 Hide:
-$("#title").animateCss("bounceOut","out");//Bounce hide
+`$("#title").animateCss("bounceOut","out");//Bounce hide`
 
 ## Developer
 Luca Colombi from (http://ethicsoft.it)
