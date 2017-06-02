@@ -112,7 +112,7 @@ Hide:
 $("#title").animateCss("bounceOut","out");//Bounce hide
 
 ## Developer
-Luca colombi from (http://ethicsoft.it)
+Luca Colombi from (http://ethicsoft.it)
 
 ## License
 Animate.js is licensed under the MIT license. (http://opensource.org/licenses/MIT)
