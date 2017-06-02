@@ -1,8 +1,10 @@
-##Requirements
+# animate.js
+
+## Requirements
+
 jQuery
 
-
-##Basic Usage
+## Basic Usage
 1. Include the stylesheet on your document's `<head>`
 
   ```html
@@ -113,7 +115,7 @@ Show:
 Hide:
 `$("#title").animateCss("bounceOut","out");//Bounce hide`
 
-## Developer
+## By
 Luca Colombi from (http://ethicsoft.it)
 
 ## License
