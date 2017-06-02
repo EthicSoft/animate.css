@@ -5,7 +5,7 @@
 jQuery
 
 ## Basic Usage
-1. Include the stylesheet on your document's `<head>`
+1. Include in your document's `<head>`
 
   ```html
   <head>
