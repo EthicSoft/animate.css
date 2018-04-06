@@ -64,6 +64,7 @@ jQuery
   * `flipInY`
   * `flipOutX`
   * `flipOutY`
+  * `jackInTheBox`
   * `lightSpeedIn`
   * `lightSpeedOut`
   * `rotateIn`
