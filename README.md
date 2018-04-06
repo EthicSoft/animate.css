@@ -23,15 +23,6 @@ jQuery
 3. These are the availables effect names:
 
   * `bounce`
-  * `flash`
-  * `pulse`
-  * `rubberBand`
-  * `shake`
-  * `headShake`
-  * `swing`
-  * `tada`
-  * `wobble`
-  * `jello`
   * `bounceIn`
   * `bounceInDown`
   * `bounceInLeft`
@@ -60,13 +51,18 @@ jQuery
   * `fadeOutRightBig`
   * `fadeOutUp`
   * `fadeOutUpBig`
+  * `flash`
   * `flipInX`
   * `flipInY`
   * `flipOutX`
   * `flipOutY`
+  * `headShake`
+  * `hinge`
   * `jackInTheBox`
+  * `jello`
   * `lightSpeedIn`
   * `lightSpeedOut`
+  * `pulse`
   * `rotateIn`
   * `rotateInDownLeft`
   * `rotateInDownRight`
@@ -77,10 +73,21 @@ jQuery
   * `rotateOutDownRight`
   * `rotateOutUpLeft`
   * `rotateOutUpRight`
-  * `hinge`
-  * `jackInTheBox`
   * `rollIn`
   * `rollOut`
+  * `rubberBand`
+  * `shake`
+  * `slideInDown`
+  * `slideInLeft`
+  * `slideInRight`
+  * `slideInUp`
+  * `slideOutDown`
+  * `slideOutLeft`
+  * `slideOutRight`
+  * `slideOutUp`
+  * `swing`
+  * `tada`
+  * `wobble`
   * `zoomIn`
   * `zoomInDown`
   * `zoomInLeft`
@@ -91,14 +98,6 @@ jQuery
   * `zoomOutLeft`
   * `zoomOutRight`
   * `zoomOutUp`
-  * `slideInDown`
-  * `slideInLeft`
-  * `slideInRight`
-  * `slideInUp`
-  * `slideOutDown`
-  * `slideOutLeft`
-  * `slideOutRight`
-  * `slideOutUp`
 
 Full example:
 ```html
